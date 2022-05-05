@@ -1,7 +1,7 @@
 # PROYECTO WELCOME WORLD
 
 ## REQUERIMIENTOS
-1. Crear un servidor en Node con el módulo http.
+1. Crear un servidor en Node con el módulo `http`.
 2. Disponibilizar una ruta para crear un archivo a partir de los parámetros de la consulta recibida.
 3. Disponibilizar una ruta para devolver el contenido de un archivo cuyo nombre es declarado en los parámetros de la consulta recibida.
 4. Disponibilizar una ruta para renombrar un archivo, cuyo nombre y nuevo nombre es declarado en los parámetros de la consulta recibida.
